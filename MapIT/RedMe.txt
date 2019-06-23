@@ -1,3 +1,5 @@
+Open google map with input address
+
 1. install webbrowser,pyperclip
 2. command
 python mapIt.py 870 Valencia St, San Francisco, CA 94110
